@@ -1,7 +1,7 @@
 # openpnp-i18n
 openpnp i18n translate
 
-## Support language list:
+## Support language:
 + zh-CN
 
 ## USE
